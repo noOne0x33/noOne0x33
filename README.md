@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanmoy Chandra Barman</h1>
 <h3 align="center">A Computer Enthusiast</h3>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/noONE0x33.png" alt="TryHackMe">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noone0x33&label=Profile%20views&color=0e75b6&style=flat" alt="noone0x33" /> </p>
 
 - 🌱 I’m currently learning **JavaScript programming language**
